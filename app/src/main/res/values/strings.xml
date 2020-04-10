@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EMSchool</string>
+    <string name="welcome_to_emschool">Welcome to EMSchool...</string>
 </resources>
